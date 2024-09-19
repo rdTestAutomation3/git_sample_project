@@ -1,3 +1,4 @@
 ilk oluşturulan dosya
 ikinci satır
+Üçüncü satır
 ikinci branch'in 3. satırı

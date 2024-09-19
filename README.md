@@ -4,3 +4,4 @@ Burası projemizin read.me dosyası.
 
 
 İkinci düzenleme.
+sadasdsa

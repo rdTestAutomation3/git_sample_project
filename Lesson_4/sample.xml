@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sample>
+    <students>
+        <!-- öğrenci listesi -->
+        <student id="1">
+            <name>Ahmet</name>
+            <surname>Mehmet</surname>
+            <age>29</age>
+        </student>
+        <student id="2">
+            <name>Ali</name>
+            <surname>Ahmet</surname>
+            <age>29</age>
+        </student>
+    </students>
+</sample>

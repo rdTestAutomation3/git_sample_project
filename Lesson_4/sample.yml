@@ -1,0 +1,10 @@
+sample:
+  students:
+    - student:
+        name: Ahmet
+        surname: Mehmet
+        age: 29
+    - student:
+        name: Ali
+        surname: Ahmet
+        age: 29

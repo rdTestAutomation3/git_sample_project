@@ -1,0 +1,6 @@
+student=[
+    { name= "Ahmet", surname= "Mehmet", age= 29 },
+    { name= "Ali", surname= "Ahmet", age= 28}
+]
+
+

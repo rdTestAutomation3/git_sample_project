@@ -1,0 +1,18 @@
+{
+  "sample": {
+    "students": [
+      {
+        "id": 1,
+        "name": "Ahmet",
+        "surname": "Mehmet",
+        "age": 29
+      },
+      {
+        "id": 2,
+        "name": "Ali",
+        "surname": "Ahmet",
+        "age": 29
+      }
+    ]
+  }
+}
